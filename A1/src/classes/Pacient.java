@@ -25,11 +25,11 @@ public class Pacient {
         return hasMicDejunInclus;
     }
 
-    public boolean isHasPapuci() {
+    public boolean hasPapuci() {
         return hasPapuci;
     }
 
-    public boolean isHasHalat() {
+    public boolean hasHalat() {
         return hasHalat;
     }
     private Pacient (PacientBuilder builder){
