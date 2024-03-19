@@ -1,4 +1,4 @@
-package classes;
+package clase;
 
 public class Pacient {
     private long id;

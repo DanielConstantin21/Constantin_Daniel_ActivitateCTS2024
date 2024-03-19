@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/A1/A1.iml" filepath="$PROJECT_DIR$/A1/A1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/A1/A2/A2.iml" filepath="$PROJECT_DIR$/A1/A2/A2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spital/A1/A1.iml" filepath="$PROJECT_DIR$/Spital/A1/A1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spital/A2/A2.iml" filepath="$PROJECT_DIR$/Spital/A2/A2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spital/A3/A3.iml" filepath="$PROJECT_DIR$/Spital/A3/A3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spital/A4/A4.iml" filepath="$PROJECT_DIR$/Spital/A4/A4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spital/Spital.iml" filepath="$PROJECT_DIR$/Spital/Spital.iml" />
     </modules>
   </component>
 </project>

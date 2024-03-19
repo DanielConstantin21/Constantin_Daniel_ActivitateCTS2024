@@ -1,4 +1,4 @@
-package classes;
+package clase;
 
 public class PersonalFactory {
     public static PersonalSpital creazaPersonal(String nume, TipPersonal tip){

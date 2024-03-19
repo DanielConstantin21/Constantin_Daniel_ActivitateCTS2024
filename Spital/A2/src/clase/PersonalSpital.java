@@ -1,4 +1,4 @@
-package classes;
+package clase;
 
 public abstract class PersonalSpital {
     private String nume;

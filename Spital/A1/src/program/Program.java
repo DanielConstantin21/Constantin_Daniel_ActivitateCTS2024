@@ -1,7 +1,8 @@
-import classes.Pacient;
-
+package program;
+import clase.Pacient;
 public class Program {
     public static void main(String[] args) {
+
         Pacient pacient1 = new Pacient.PacientBuilder(1,"Gica cu optiuni")
                 .hasMicDejunInclus(true)
                 .hasHalat(true)

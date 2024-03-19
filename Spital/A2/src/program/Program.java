@@ -1,6 +1,8 @@
-import classes.PersonalFactory;
-import classes.PersonalSpital;
-import classes.TipPersonal;
+package program;
+
+import clase.PersonalFactory;
+import clase.PersonalSpital;
+import clase.TipPersonal;
 
 public class Program {
     public static void main(String[] args) {
