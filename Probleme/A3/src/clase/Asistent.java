@@ -2,7 +2,7 @@ package clase;
 
 public class Asistent extends PersonalSpital {
 
-    public Asistent(String nume, int varsta) {
+    Asistent(String nume, int varsta) {
        super(nume,varsta);
     }
 

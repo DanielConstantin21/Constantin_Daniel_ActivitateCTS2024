@@ -3,7 +3,7 @@ package clase;
 public class Brancardier extends PersonalSpital{
 
 
-    public Brancardier(String nume, int varsta) {
+     Brancardier(String nume, int varsta) {
         super(nume,varsta);
     }
 
