@@ -1,8 +1,8 @@
 package program;
 
-import decorator.ANotaPlata;
-import decorator.FelicitareDecorator;
-import decorator.NotaPlata;
+import clase.ANotaPlata;
+import clase.FelicitareDecorator;
+import clase.NotaPlata;
 
 public class Main {
     public static void main(String[] args) {

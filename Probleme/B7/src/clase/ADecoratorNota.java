@@ -1,4 +1,4 @@
-package decorator;
+package clase;
 
 public class ADecoratorNota extends ANotaPlata{
     ANotaPlata nota;

@@ -1,4 +1,4 @@
-package decorator;
+package clase;
 
 public abstract class ANotaPlata {
     protected double totalConsumat;
