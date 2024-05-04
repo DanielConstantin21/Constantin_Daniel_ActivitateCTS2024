@@ -11,13 +11,14 @@ public class Main {
         Reteta reteta3 = new Reteta(ClientFlyweightFactory.getClient(2,"Lola"),3,3,200);
         Reteta reteta4 = new Reteta(ClientFlyweightFactory.getClient(1,"Strinculescu"),4,3,200);
 
-        System.out.println(reteta1.toString());
-        System.out.println(reteta2.toString());
-        System.out.println(reteta3.toString());
-        System.out.println(reteta4.toString());
+        System.out.println(reteta1);
+        System.out.println(reteta2);
+        System.out.println(reteta3);
+        System.out.println(reteta4);
 
         ClientFlyweightFactory.getNrClienti();
         ClientFlyweightFactory.getNrReteteProcesate();
+
 
         if(reteta1.getClient() == reteta4.getClient()){
             System.out.println("aceeasi instanta");

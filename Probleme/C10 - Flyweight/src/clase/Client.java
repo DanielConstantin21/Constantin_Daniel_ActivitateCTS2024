@@ -1,6 +1,6 @@
 package clase;
 
-public class Client {
+public class Client{
     private long nrAsigurare;
     private String nume;
 

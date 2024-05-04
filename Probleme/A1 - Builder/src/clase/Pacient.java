@@ -1,7 +1,7 @@
 package clase;
 
 public class Pacient {
-    private long id;
+    private final long id;
     private String nume;
 
     private boolean hasPatRabatabil;
