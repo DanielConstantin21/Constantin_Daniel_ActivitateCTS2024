@@ -5,13 +5,15 @@ import clase.Meniu;
 import clase.Produs;
 import clase.Sectiune;
 
-import java.sql.SQLOutput;
 
 public class Main {
 
     public static void main(String[] args) {
         Meniu restaurant = new Meniu("La Copac");
         Sectiune meniu = new Sectiune("Meniu");
+
+        restaurant.setSectiune(meniu);
+
         ANode meniuBauturi = new Sectiune("Bauturi");
         ANode cafea = new Sectiune("Cafea");
         ANode c1 = new Produs("Late",12);
@@ -40,7 +42,7 @@ public class Main {
         System.out.println(startere.getNrProduse());
 
         startere.stergeNode(s2);
-        System.out.println(meniu.getNrProduse());
+        System.out.println(restaurant.getSectiune().getNrProduse());
 
 
     }
