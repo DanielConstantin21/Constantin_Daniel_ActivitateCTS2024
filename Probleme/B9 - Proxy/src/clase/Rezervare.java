@@ -1,8 +1,8 @@
 package clase;
 
 public class Rezervare {
-    private int nrPersoane;
-    private String nume;
+    private final int nrPersoane;
+    private final String nume;
 
     public Rezervare(int nrPersoane, String nume) {
         this.nrPersoane = nrPersoane;

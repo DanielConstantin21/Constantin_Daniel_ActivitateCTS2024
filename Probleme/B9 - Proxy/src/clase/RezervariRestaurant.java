@@ -2,8 +2,8 @@ package clase;
 
 import java.util.LinkedList;
 
-public class Rezervari implements IRezervare{
-    private LinkedList<Rezervare> listaRezervari =  new LinkedList<>();
+public class RezervariRestaurant implements IRezervare{
+    private final LinkedList<Rezervare> listaRezervari =  new LinkedList<>();
 
 
     @Override
