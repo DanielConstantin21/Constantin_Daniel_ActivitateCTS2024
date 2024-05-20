@@ -1,9 +1,9 @@
 package clase;
 
-public class ADecoratorNota extends ANotaPlata{
+public class DecoratorNota extends ANotaPlata{
     ANotaPlata nota;
 
-   public ADecoratorNota(ANotaPlata nota){
+   public DecoratorNota(ANotaPlata nota){
        super(nota.totalConsumat, nota.tips);
        this.nota = nota;
    }

@@ -1,6 +1,6 @@
 package clase;
 
-public class FelicitareDecorator extends ADecoratorNota {
+public class FelicitareDecorator extends DecoratorNota {
 
     public FelicitareDecorator(ANotaPlata nota) {
         super(nota);
