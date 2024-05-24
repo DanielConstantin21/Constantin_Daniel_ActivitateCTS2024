@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Probleme/A1 - Builder/A1 - Builder.iml" filepath="$PROJECT_DIR$/Probleme/A1 - Builder/A1 - Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Probleme/A14 - Template/A14 - Template.iml" filepath="$PROJECT_DIR$/Probleme/A14 - Template/A14 - Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme/A2 - SimpleFactory/A2 - SimpleFactory.iml" filepath="$PROJECT_DIR$/Probleme/A2 - SimpleFactory/A2 - SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme/A3 - FactoryMethod/A3 - FactoryMethod.iml" filepath="$PROJECT_DIR$/Probleme/A3 - FactoryMethod/A3 - FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Probleme/A4/A4.iml" filepath="$PROJECT_DIR$/Probleme/A4/A4.iml" />
