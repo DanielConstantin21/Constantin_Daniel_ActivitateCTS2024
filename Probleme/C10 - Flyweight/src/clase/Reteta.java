@@ -1,6 +1,6 @@
 package clase;
 
-public class Reteta {
+public class Reteta implements IReteta{
     private Client client;
     private int nrReteta;
     private int nrMedicamente;
@@ -22,18 +22,22 @@ public class Reteta {
                 '}';
     }
 
+    @Override
     public Client getClient() {
         return client;
     }
 
+    @Override
     public int getNrReteta() {
         return nrReteta;
     }
 
+    @Override
     public int getNrMedicamente() {
         return nrMedicamente;
     }
 
+    @Override
     public double getSumaPlata() {
         return sumaPlata;
     }
